@@ -1,0 +1,19 @@
+# Arquivos de documentação
+*.asta
+*.bpm
+
+# Vídeos
+*.mp4
+*.mov
+
+# Configuração do VSCode
+*.vscode
+
+# Executável de teste:
+_main/C/a.exe
+
+# Outros
+*.pdf
+
+# Arquivos do Mac
+*.DS_Store
